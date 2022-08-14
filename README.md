@@ -1,20 +1,54 @@
-## Project Name
+# LovingSitter
 
-This is a little description about your project.
+> A community-based online platform for Pet Owners and Pet Sitters to schedule visits 🐶
 
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Typescript
+> Register to become a Pet Owner to start browsing Pet Sitters to watch over your pet while you are away 🐢
 
-**Contributors**: [Hatchways](https://github.com/hatchways) (replace)
+> Become a Pet Sitter if you'd like partake in the fun of pet sitting! 💰
+
+## Features
+
+- Search by location to browse the Pet Sitter Profile listings.
+
+- Setup your Pet Sitter Profile as a Pet Sitter by filling out your information and pay rate.
+
+- (Coming Soon) Message your Pet Sitter or Pet Owner in real-time through the web app.
+
+- (Coming Soon) Pay through the app using Stripe (~3% fee). **Note:** Fake Fee and Money.
+
+### Tech Stack
+
+- MongoDB, Express.js, React.js, Node.js, Typescript
+
+### Contributors
+
+- Edward O., Dennis J., Gill P.
 
 ---
 
-### Getting Started
+## Demo
 
-1. Clone or download repository
+1. Registration. Users will be able to create a new account using their email and password.
+
+![Signup Demo](demo/images/signup.png)
+
+2. Landing Page. Users can log in or jump right into the Pet Sitter profile listings from the landing page.
+
+![Landing Page Demo](demo/images/landing.png)
+
+3. Photo Upload. Users can update their profile picture so we can see their beautiful faces!
+
+![Photo Upload](https://user-images.githubusercontent.com/18078583/153735834-2187eec3-3df2-4e8a-a25c-f7acc6fa8b19.gif)
+
+4. Pet Sitter Profile Page. Setup your information and rate as a Pet Sitter
+
+![Updating Pet Sitter](https://user-images.githubusercontent.com/25715300/155641744-29e244a4-8204-4d6a-9e72-30d125609ec7.gif)
 
 ---
 
-## Server
+## Local Setup
+
+### Server
 
 1. Go into the server directory `cd server`
 2. Run `npm install` to install packages
@@ -23,20 +57,8 @@ This is a little description about your project.
 
 ---
 
-## Client
+### Client
 
 1. Go into the client directory `cd client`
 2. Run `npm install` to install packages
 3. Run `npm start` to start the client side
-
----
-
-### Demo
-
-1. Registration. Users will be able to create a new account using their email and password
-
-![Signup Demo](demo/images/signup.png)
-
-2. Dashboard. Here is a description about what a user can expect to see
-
-![Dashboard](demo/images/dashboard.png)

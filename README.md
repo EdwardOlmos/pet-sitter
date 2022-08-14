@@ -30,11 +30,11 @@
 
 1. Registration. Users will be able to create a new account using their email and password.
 
-![Signup Demo](demo/images/signup.png)
+![Signup Demo](demo/images/signup2.png)
 
 2. Landing Page. Users can log in or jump right into the Pet Sitter profile listings from the landing page.
 
-![Landing Page Demo](demo/images/landing.png)
+![Landing Page Demo](https://user-images.githubusercontent.com/56893126/151470604-5634380b-40bd-45bd-a1f3-f9372cee2112.png)
 
 3. Photo Upload. Users can update their profile picture so we can see their beautiful faces!
 

@@ -30,19 +30,19 @@
 
 1. Registration. Users will be able to create a new account using their email and password.
 
-<img src="./demo/images/sign_up.png" width="60%" />
+<img src="./demo/images/sign_up.png" width="70%" />
 
 2. Landing Page. Users can log in or jump right into the Pet Sitter profile listings from the landing page.
 
-<img src="https://user-images.githubusercontent.com/56893126/151470604-5634380b-40bd-45bd-a1f3-f9372cee2112.png" width="60%" />
+<img src="https://user-images.githubusercontent.com/56893126/151470604-5634380b-40bd-45bd-a1f3-f9372cee2112.png" width="70%" />
 
 3. Photo Upload. Users can update their profile picture so we can see their beautiful faces!
 
-<img src="https://user-images.githubusercontent.com/18078583/153735834-2187eec3-3df2-4e8a-a25c-f7acc6fa8b19.gif" width="60%" />
+<img src="https://user-images.githubusercontent.com/18078583/153735834-2187eec3-3df2-4e8a-a25c-f7acc6fa8b19.gif" width="70%" />
 
 4. Pet Sitter Profile Page. Setup your information and rate as a Pet Sitter
 
-<img src="https://user-images.githubusercontent.com/25715300/155641744-29e244a4-8204-4d6a-9e72-30d125609ec7.gif" width="60%" />
+<img src="https://user-images.githubusercontent.com/25715300/155641744-29e244a4-8204-4d6a-9e72-30d125609ec7.gif" width="70%" />
 
 ---
 
